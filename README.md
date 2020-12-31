@@ -1,3 +1,3 @@
 # Notion Auto Routine Maker
-![notionImg](./img/NotionImg.png = 300 * 200)
-It automatically creates the following formats
+![NotionImg](https://user-images.githubusercontent.com/52990026/103412203-51e51c80-4bb7-11eb-9391-a23c89ef0a4a.png)
+It automatically creates the following formats in notion
